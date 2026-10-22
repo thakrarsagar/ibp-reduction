@@ -7,3 +7,7 @@
   this initialization session. No independent reviewer has accepted these results.
 
 Future entries should distinguish authorship, verification, and negative findings.
+
+- Donated session from @thakrarsagar, run with OpenAI Codex on 2026-10-22:
+  bounded equal-mass sunset policy grid and exact evidence package. Author-checked;
+  no independent review or accepted frontier change.
